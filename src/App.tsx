@@ -6,7 +6,7 @@ function App() {
         <p className='text-white text-5xl font-bold text-center'>Tailwind DewDrop</p>
       </header>
       <main className='flex-grow flex justify-center items-center'>
-        <div className='w-52 h-52 border border-gray-300' />
+        <div className='w-60 h-60 border border-gray-300 transform rotate-45 rounded-[13rem] rounded-tl-[2rem] rounded-br-[16rem]' />
       </main>
     </div>
   )
