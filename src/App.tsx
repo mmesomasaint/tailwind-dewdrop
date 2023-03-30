@@ -6,7 +6,7 @@ function App() {
         <p className='text-white text-5xl font-bold text-center'>Tailwind DewDrop</p>
       </header>
       <main className='flex-grow flex justify-center items-center'>
-        <div className="before:content-[''] before:absolute before:z-10 before:h-64 before:w-64 before:bg-gray-500  before:rounded-[3rem] before:rounded-tl-[1rem] before:rounded-br-[12rem] w-64 h-64 bg-gray-300 border border-gray-300 border-opacity-40 transform rotate-45 rounded-[13rem] rounded-tl-[2rem] rounded-br-[16rem] overflow-hidden" />
+        <div className="before:content-[''] before:absolute before:z-10 before:h-64 before:w-64 before:bg-teal-600 before:bg-opacity-40 before:rounded-[3rem] before:rounded-tl-[1rem] before:rounded-br-[15rem] w-64 h-64 bg-gray-300 bg-opacity-80 transform rotate-45 rounded-[13rem] rounded-tl-[2rem] rounded-br-[16rem] overflow-hidden" />
       </main>
     </div>
   )
